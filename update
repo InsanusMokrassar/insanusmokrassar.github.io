@@ -1,3 +1,8 @@
 #!/bin/bash
 
+./init_for_build
+
 gitfolio update
+
+mv dist/* ./
+mv config.json dist/
