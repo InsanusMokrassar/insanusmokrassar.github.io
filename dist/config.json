@@ -3,9 +3,16 @@
   "username": "InsanusMokrassar",
   "name": null,
   "userimg": "https://avatars0.githubusercontent.com/u/6850345?v=4",
-  "sort": "created",
-  "order": "asc",
+  "sort": "star",
+  "order": "desc",
   "includeFork": false,
-  "theme": "light.css"
+  "theme": "light.css",
+  "types": [
+   "owner"
+  ],
+  "twitter": "InsanusMokrassa",
+  "linkedin": "alexey-ovsyannikov-8b2913151",
+  "medium": null,
+  "dribbble": null
  }
 ]

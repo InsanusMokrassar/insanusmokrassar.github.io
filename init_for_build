@@ -1,0 +1,5 @@
+#!/bin/bash
+
+sudo apt install dos2unix npm
+sudo npm install gitfolio -g
+sudo dos2unix -F `whereis gitfolio`
