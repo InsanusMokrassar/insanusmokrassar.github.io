@@ -1,0 +1,7 @@
+#!/bin/bash
+
+gitfolio update
+
+mv dist/* ./
+mv config.json dist/
+
